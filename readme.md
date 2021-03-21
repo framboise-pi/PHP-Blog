@@ -2,6 +2,10 @@
 * to add categories
 * to add new template
 * more settings
+** log in file - login attempts
+** display log
+* change admin path and add secret word
+* 
 
 # PHP7 blogging application
 Easy blogging application written with PHP7! The application comes with a fulltext search functionality for posts and with customizable themes and languages. You can build your own theme if the default theme does not satisfy you.
