@@ -1,6 +1,7 @@
 # This Fork (in development)
 * to add categories
 * to add new template
+* more settings
 
 # PHP7 blogging application
 Easy blogging application written with PHP7! The application comes with a fulltext search functionality for posts and with customizable themes and languages. You can build your own theme if the default theme does not satisfy you.
